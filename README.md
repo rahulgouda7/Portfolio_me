@@ -3,7 +3,6 @@
   <a href="https://portfolio-me-beryl.vercel.app/" target="_blank">Rahul.tech</a>
 </h2>
 <div align="center">
-![rg (2)](https://github.com/rahulgouda7/Portfolio_me/assets/94516425/e801dd87-8ee2-46dc-932c-f770e0ceb72c)
 
 
 </div>
