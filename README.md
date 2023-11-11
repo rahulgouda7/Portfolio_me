@@ -3,7 +3,7 @@
   <a href="https://portfolio-me-beryl.vercel.app/" target="_blank">Rahul.tech</a>
 </h2>
 <div align="center">
-![emotion](https://github.com/rahulgouda7/Portfolio_me/assets/94516425/2f40269f-71d5-4579-936c-454edc170676)
+![emotion](https://github.com/rahulgouda7/Portfolio_me/assets/94516425/d7c592d6-4b04-4e22-a24d-e8eb3515d455)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://portfolio-me-beryl.vercel.app/" target="_blank">Rahul.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
